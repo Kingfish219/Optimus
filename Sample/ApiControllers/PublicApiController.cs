@@ -1,6 +1,6 @@
 using System.Web.Http;
 
-namespace CoCoNuT.ApiControllers
+namespace Sample.ApiControllers
 {
     [RoutePrefix("api/public")]
     public class PublicApiController : ApiController
