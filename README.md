@@ -1,3 +1,3 @@
 # Optimus
 
-An easy way to create and install a windows service with .NET Framework
+An easy way to create and install a windows service with .NET Framework. You can also add self-hosted web api to your service and much more...

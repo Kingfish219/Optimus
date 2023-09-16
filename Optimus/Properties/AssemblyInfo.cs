@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Optimus")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An easy way to create and install a windows service with .NET Framework. You can also add self-hosted web api to your service and much more...")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Kingfish")]
 [assembly: AssemblyProduct("Optimus")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
