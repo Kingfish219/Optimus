@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Optimus</id>
+    <version>1.0.0</version>
+    <title>Optimus</title>
+    <authors>Kingfish</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Kingfish219/Optimus/</projectUrl>
+    <description>An easy way to create and install a windows service with .NET Framework. You can also add self-hosted web api to your service and much more...</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2023</copyright>
+    <tags>windows service self host framework</tags>
+  </metadata>
+</package>

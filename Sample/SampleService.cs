@@ -1,5 +1,4 @@
-﻿using Optimus.Registrant;
-using System;
+﻿using Optimus.Models;
 
 namespace Sample
 {
@@ -7,15 +6,11 @@ namespace Sample
     {
         public override bool Start()
         {
-            //throw new NotImplementedException();
-
             return true;
         }
 
         public override bool Stop()
         {
-            //throw new NotImplementedException();
-
             return true;
         }
     }

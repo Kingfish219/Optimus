@@ -62,9 +62,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Optimus.Registrant\Optimus.Registrant.csproj">
-      <Project>{E58ECB4D-769A-4391-B386-0F2CC7437E1C}</Project>
-      <Name>Optimus.Registrant</Name>
+    <ProjectReference Include="..\Optimus\Optimus.csproj">
+      <Project>{9291e18c-54bf-49f2-ad98-b6fa66f0c6c7}</Project>
+      <Name>Optimus</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
